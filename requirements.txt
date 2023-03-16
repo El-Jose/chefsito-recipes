@@ -1,0 +1,4 @@
+﻿Flask==2.2.3
+psycopg2==2.9.5
+Flask-SQLAlchemy==3.0.3
+pytest==7.2.1
